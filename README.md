@@ -2,6 +2,10 @@
 
 A web-based implementation of the popular word guessing game Wordle, built with vanilla HTML, CSS, and JavaScript.
 
+## 🚀 Live Demo
+
+[Play Wordle Online](https://ziad-mohamed-dev.github.io/wordle/)
+
 ## 🎮 How to Play
 
 1. **Objective**: Guess the secret 5-letter word in 6 attempts or less
